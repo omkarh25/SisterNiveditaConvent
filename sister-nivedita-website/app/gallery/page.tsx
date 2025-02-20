@@ -28,7 +28,37 @@ export default function Gallery() {
       alt: 'School Events',
       category: 'Events',
     },
-  ];
+    {
+      src: '/images/Hero5.jpg',
+      alt: 'School Events',
+      category: 'Events',
+    },
+    {
+      src: '/images/Hero6.jpg',
+      alt: 'School History',
+      category: 'History',
+    },
+    {
+      src: '/images/Hero7.jpg',
+      alt: 'School History',
+      category: 'History',
+    },
+    {
+      src: '/images/Hero8.jpg',
+      alt: 'School History',
+      category: 'History',
+    },  
+    {
+      src: '/images/Hero9.jpg',
+      alt: 'School History',
+      category: 'History',
+    },      
+    {
+      src: '/images/Hero10.jpg',
+      alt: 'School Events',
+      category: 'Events',
+    },
+    ];
 
   const categories = ['All', ...new Set(galleryImages.map(img => img.category))];
   const [activeCategory, setActiveCategory] = useState('All');

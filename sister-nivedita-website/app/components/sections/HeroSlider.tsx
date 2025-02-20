@@ -28,6 +28,31 @@ const HeroSlider = () => {
       image: '/images/Cover.jpg',
       alt: 'School Building',
     },
+    {
+      image: '/images/Hero5.jpg',
+      alt: 'School Building',
+    },
+    {
+      image: '/images/Hero6.jpg',
+      alt: 'School Events',
+    },
+    {
+      image: '/images/Hero7.jpg',
+      alt: 'School History',
+    },
+    {
+      image: '/images/Hero8.jpg',
+      alt: 'School History',
+    },
+    {
+      image: '/images/Hero9.jpg',
+      alt: 'School History',
+    },
+    {
+      image: '/images/Hero10.jpg',
+      alt: 'School Events',
+    },
+    
   ];
 
   // Auto-advance slides

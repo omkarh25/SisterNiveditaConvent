@@ -28,6 +28,11 @@ const Header = () => {
           {/* Logo */}
           <div className="flex-shrink-0">
             <Link href="/" className="flex items-center">
+              <img
+                src="/images/Hero6logo.png"
+                alt="Sister Nivedita Convent Logo"
+                className="h-12 w-auto mr-3"
+              />
               <span className="text-2xl font-bold text-primary">Sister Nivedita Convent</span>
             </Link>
           </div>

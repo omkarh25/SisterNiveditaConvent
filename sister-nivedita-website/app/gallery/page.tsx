@@ -31,32 +31,32 @@ export default function Gallery() {
     {
       src: '/images/Hero5.jpg',
       alt: 'School Events',
-      category: 'Events',
+      category: 'TRS',
     },
     {
       src: '/images/Hero6.jpg',
       alt: 'School History',
-      category: 'History',
+      category: 'TRS',
     },
     {
       src: '/images/Hero7.jpg',
       alt: 'School History',
-      category: 'History',
+      category: 'TRS',
     },
     {
       src: '/images/Hero8.jpg',
       alt: 'School History',
-      category: 'History',
+      category: 'TRS',
     },  
     {
       src: '/images/Hero9.jpg',
       alt: 'School History',
-      category: 'History',
+      category: 'TRS',
     },      
     {
       src: '/images/Hero10.jpg',
       alt: 'School Events',
-      category: 'Events',
+      category: 'TRS',
     },
     ];
 

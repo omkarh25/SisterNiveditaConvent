@@ -13,15 +13,15 @@ const HeroSlider = () => {
 
   const slides = [
     {
-      image: '/images/hero1.jpg',
+      image: '/images/hero9.jpg',
       alt: 'Sister Nivedita Convent Campus',
     },
     {
-      image: '/images/Hero3.jpg',
+      image: '/images/Hero1.jpg',
       alt: 'School Activities',
     },
     {
-      image: '/images/Hero4.jpg',
+      image: '/images/Hero3.jpg',
       alt: 'School Events',
     },
     {
@@ -29,23 +29,11 @@ const HeroSlider = () => {
       alt: 'School Building',
     },
     {
-      image: '/images/Hero5.jpg',
+      image: '/images/Hero4.jpg',
       alt: 'School Building',
     },
     {
-      image: '/images/Hero6.jpg',
-      alt: 'School Events',
-    },
-    {
-      image: '/images/Hero7.jpg',
-      alt: 'School History',
-    },
-    {
-      image: '/images/Hero8.jpg',
-      alt: 'School History',
-    },
-    {
-      image: '/images/Hero9.jpg',
+      image: '/images/Hero5.jpg',
       alt: 'School History',
     },
     {
